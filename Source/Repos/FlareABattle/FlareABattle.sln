@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlareABattle", "FlareABattle\FlareABattle.csproj", "{E422AA03-46C0-4731-BC82-2BF42D785666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlareABattleTests", "FlareABattleTests\FlareABattleTests.csproj", "{5108FBC1-AB85-4004-A5F9-E7011870651D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E422AA03-46C0-4731-BC82-2BF42D785666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E422AA03-46C0-4731-BC82-2BF42D785666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E422AA03-46C0-4731-BC82-2BF42D785666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E422AA03-46C0-4731-BC82-2BF42D785666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5108FBC1-AB85-4004-A5F9-E7011870651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5108FBC1-AB85-4004-A5F9-E7011870651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5108FBC1-AB85-4004-A5F9-E7011870651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5108FBC1-AB85-4004-A5F9-E7011870651D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56633AE7-5911-43D4-986D-D3DBC2EC1724}
+	EndGlobalSection
+EndGlobal
